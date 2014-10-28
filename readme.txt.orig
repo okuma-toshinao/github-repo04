@@ -1,0 +1,15 @@
+step01
+step02/master
+step03/topic
+<<<<<<< HEAD
+step04/master
+step05/master
+call sub01/topic02
+step04/master
+=======
+<<<<<<< HEAD
+call sub01/topic02
+=======
+step04/master
+>>>>>>> 4e88d28aee8bafc6c1de063216dad06a9895d7e9
+>>>>>>> parent of 7136e83... バグの修正
